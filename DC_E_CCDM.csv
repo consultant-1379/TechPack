@@ -1,0 +1,10 @@
+Table Name,Counter Name,Data Id,MO Class
+DC_E_CCDM_UDR_NUDR_PROV,eric_udr_nudr_prov_requests_recv,eric-udr-nudr-prov-requests-recv,eric-udr-nudr-prov-group
+DC_E_CCDM_UDR_NUDR_PROV,eric_udr_nudr_prov_successful_responses_sent,eric-udr-nudr-prov-successful-responses-sent,eric-udr-nudr-prov-group
+DC_E_CCDM_UDR_NUDR_PROV,eric_udr_nudr_prov_unsuccessful_responses_sent,eric-udr-nudr-prov-unsuccessful-responses-sent,eric-udr-nudr-prov-group
+DC_E_CCDM_UDR_NUDR_PROV,eric_udr_nudr_prov_overload_responses_ratio,eric-udr-nudr-prov-overload-responses-ratio,eric-udr-nudr-prov-group
+DC_E_CCDM_UDR_NUDR_PROV,eric_udr_nudr_prov_request_count,eric-udr-nudr-prov-request-count,eric-udr-nudr-prov-group
+DC_E_CCDM_UDR_NUDR_PROV,eric_udr_nudr_prov_request_duration_seconds,eric-udr-nudr-prov-request-duration-seconds,eric-udr-nudr-prov-group
+DC_E_CCDM_UDR_NUDR_PROV_PROXY,eric_udr_nudr_provisioning_proxy_successful_responses_recv,eric-udr-nudr-provisioning-proxy-successful-responses-recv,eric-udr-nudr-prov-proxy-group
+DC_E_CCDM_UDR_NUDR_PROV_PROXY,eric_udr_nudr_provisioning_proxy_requests_sent,eric-udr-nudr-provisioning-proxy-requests-sent,eric-udr-nudr-prov-proxy-group
+DC_E_CCDM_UDR_NUDR_PROV_PROXY,eric_udr_nudr_provisioning_proxy_unsuccessful_responses_recv,eric-udr-nudr-provisioning-proxy-unsuccessful-responses-recv,eric-udr-nudr-prov-proxy-group

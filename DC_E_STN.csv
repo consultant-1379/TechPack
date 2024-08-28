@@ -1,0 +1,3 @@
+Fact Table Name,Counter Name,Data id,MO class
+DC_E_STN_OSPFV2PROCESS,noOfOspfMaxAgeLSA,noOfOspfMaxAgeLSA,OSPFv2Proc
+DC_E_STN_OSPFV2PROCESS,ospfOriginateNewLSAs,ospfOriginateNewLSAs,OSPFv2Proc
